@@ -7,7 +7,9 @@ I'm currently in my third year of university working on a Pirate Themed Android 
 
 In the mean time, have a look at some work I have acomplished whilst learning game development with java - https://github.com/Bensaski/Modern-Space-Invaders
 
-
+* Studying at University Of Essex - BSC Computer Games
+* Learning C++, Java, Unreal Engine and Unity
+* Feel free to reach out to me using my email bensadler27@gmail.com
 
 <!--
 **Bensaski/Bensaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
