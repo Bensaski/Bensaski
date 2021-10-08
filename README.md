@@ -1,3 +1,4 @@
+![giphy-downsized](https://user-images.githubusercontent.com/56220027/136607343-7761acb1-c5fa-497d-9f9a-c3eeb8ada516.gif)
 ### Hey! I am Ben Sadler 🖐 
 
 **I am currently a Games Development student learning all about computer science and the game development Industry. My current focus is on Game Design and Programming, as It is what i am passionate about and what im looking forward to as a career.**
