@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! I am Ben Sadler 🖐 
+
+**I am currently a Games Development student learning all about computer science and the game development Industry. My current focus is on Game Design and Programming, as It is what i am passionate about and what im looking forward to as a career.**
+
+I'm currently in my third year of university working on a Pirate Themed Android game as my capstone project. Once the basis of the game has been developed in the next couple of weeks, you will see a repository you can check out to see how the game progresses. 
+
+In the mean time, have a look at some work I have acomplished whilst learning game development with java - https://github.com/Bensaski/Modern-Space-Invaders
+
+
 
 <!--
 **Bensaski/Bensaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
