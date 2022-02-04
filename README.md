@@ -11,6 +11,12 @@ In the mean time, have a look at some work I have acomplished whilst learning ga
 * Learning C++, Java, Unreal Engine and Unity
 * Feel free to reach out to me using my email bensadler27@gmail.com
 
+Im currently working on a Android pirate themed mobile game as part of my final year capstone project, here you can see a short showcase of how the development is coming along -
+
+
+https://user-images.githubusercontent.com/56220027/152565128-0e01420f-64c0-47ba-9b3b-c627bd441645.mp4
+
+
 <!--
 **Bensaski/Bensaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
