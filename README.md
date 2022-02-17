@@ -3,7 +3,7 @@
 
 **I am currently a Games Development student learning all about computer science and the game development Industry. My current focus is on Game Design and Programming, as It is what i am passionate about and what im looking forward to as a career.**
 
-I'm currently in my third year of university working on a Pirate Themed Android game as my dissertation project. If you would like to see how the game is progressing, checkout the pinned repo below
+I'm currently in my third year of university working on a Pirate Themed Android game as my dissertation project named The Lone Marauder. If you would like to see how the game is progressing, checkout the pinned repo below.
 
 In the mean time, have a look at some work I have acomplished whilst learning game development with java - https://github.com/Bensaski/Modern-Space-Invaders
 
@@ -11,7 +11,7 @@ In the mean time, have a look at some work I have acomplished whilst learning ga
 * Learning C++, Java, Unreal Engine and Unity
 * Feel free to reach out to me using my email bensadler27@gmail.com
 
-Im currently working on a Android pirate themed mobile game as part of my final year capstone project, here you can see a short showcase of how the development is coming along -
+You can checkout the progress on the Lone Marauder here -
 
 
 https://user-images.githubusercontent.com/56220027/152565128-0e01420f-64c0-47ba-9b3b-c627bd441645.mp4
