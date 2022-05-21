@@ -1,11 +1,12 @@
 ![giphy-downsized](https://user-images.githubusercontent.com/56220027/136607343-7761acb1-c5fa-497d-9f9a-c3eeb8ada516.gif)
 ### Hey! I'm Ben 🖐 
 
-**I am currently a Games Development student learning all about computer science and the game development Industry. My current focus is on Game Design and Programming, as It is what i am passionate about and what im looking forward to as a career.**
+[![Linkedin Badge](https://img.shields.io/badge/-bensadler-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/bensaski/)
+[![Website Badge](https://img.shields.io/badge/-bensaski.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://bensaski.github.io)
+[![Gmail Badge](https://img.shields.io/badge/-bensadler27-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bensadler27@gmail.com)](mailto:bensadler27@gmail.com)
 
-I'm currently in my third year of university working on a Pirate Themed Android game as my dissertation project named The Lone Marauder. If you would like to see how the game is progressing, download The Lone Marauder onto your Android Device from - https://play.google.com/store/apps/details?id=com.SolarGaming.TheLoneMarauder
+I am a final year student at University of Essex studying Computer Science and Games Development. As a games development student, I am fascinated by the immersion and gameplay experiences games provide to players and aspire to create these experiences myself. As such, my university degree has greatly helped me learn and apply knowledge towards game making and computer science. I am currently searching for post graduate jobs in the Games Industry to kickstart my career!
 
-In the mean time, have a look at some work I have acomplished whilst learning game development with java - https://github.com/Bensaski/Modern-Space-Invaders
 
 * Studying at University Of Essex - BSC Computer Games
 * Learning C++, Java, Unreal Engine and Unity
