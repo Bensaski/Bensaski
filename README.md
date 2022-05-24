@@ -1,4 +1,4 @@
-![giphy-downsized](https://user-images.githubusercontent.com/56220027/136607343-7761acb1-c5fa-497d-9f9a-c3eeb8ada516.gif)
+<!-- ![giphy-downsized](https://user-images.githubusercontent.com/56220027/136607343-7761acb1-c5fa-497d-9f9a-c3eeb8ada516.gif) -->
 ### Hey! I'm Ben 🖐 
 
 [![Linkedin Badge](https://img.shields.io/badge/-bensadler-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/bensaski/)
